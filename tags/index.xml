@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vatsal&#39;s Terminal</title>
-    <link>https://vatsalmpatel.github.io/vatsalportfolio/tags/</link>
+    <link>https://vatsalmpatel.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on Vatsal&#39;s Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Vatsal Patel</copyright><atom:link href="https://vatsalmpatel.github.io/vatsalportfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Vatsal Patel</copyright><atom:link href="https://vatsalmpatel.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

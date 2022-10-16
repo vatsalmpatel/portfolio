@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vatsal&#39;s Terminal</title>
-    <link>https://vatsalmpatel.github.io/vatsalportfolio/</link>
+    <link>https://vatsalmpatel.github.io/portfolio/</link>
     <description>Recent content on Vatsal&#39;s Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vatsal Patel</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vatsalmpatel.github.io/vatsalportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vatsalmpatel.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://vatsalmpatel.github.io/vatsalportfolio/about/</link>
+      <link>https://vatsalmpatel.github.io/portfolio/about/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vatsalmpatel.github.io/vatsalportfolio/about/</guid>
+      <guid>https://vatsalmpatel.github.io/portfolio/about/</guid>
       <description>Hi there I am Vatsal Patel, currently pursuing my Masters of Science in Artificial Intelligence from Northeastern University.
 From June 2022, I am doing a co-op at Retail Business Services (a company of Ahold Delhaize USA) as a Machine Learning Operations (MLOps) Engineer. At Retail Business Services, I am responsible for building Recommender Systems using Machine Learning and Deep Learning to be able to recommend products to millions of customers who shop at brands such as Stop &amp;amp; Shop, Giant Food, Food Lion and many other brands owned by Ahold Delhaize on the east coast.</description>
       <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
@@ -30,10 +30,10 @@ From June 2022, I am doing a co-op at Retail Business Services (a company of Aho
     
     <item>
       <title>Hello Friend</title>
-      <link>https://vatsalmpatel.github.io/vatsalportfolio/posts/greet/</link>
+      <link>https://vatsalmpatel.github.io/portfolio/posts/greet/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vatsalmpatel.github.io/vatsalportfolio/posts/greet/</guid>
+      <guid>https://vatsalmpatel.github.io/portfolio/posts/greet/</guid>
       <description>As you have come to my website, this is a chance for you read more about me as well as take a look at various Machine Learning and Deep Learning Projects that I have worked by navigating the links above and feel free to contact me and we can have a chat 🗣.
 A short intro I am currently a full-time student at Northeastern University, pursuing my Masters in Artificial Intelligence, inclined towards Machine Learning and Computer Vision.</description>
       <content>&lt;p&gt;As you have come to my website, this is a chance for you read more about me as well as take a look at various Machine Learning and Deep Learning Projects that I have worked by navigating the links above and feel free to contact me and we can have a chat 🗣.&lt;/p&gt;
@@ -44,10 +44,10 @@ A short intro I am currently a full-time student at Northeastern University, pur
     
     <item>
       <title>Important Links and Contact Information</title>
-      <link>https://vatsalmpatel.github.io/vatsalportfolio/contact/</link>
+      <link>https://vatsalmpatel.github.io/portfolio/contact/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vatsalmpatel.github.io/vatsalportfolio/contact/</guid>
+      <guid>https://vatsalmpatel.github.io/portfolio/contact/</guid>
       <description>GitHub LinkedIn E-Mail </description>
       <content>&lt;h3 id=&#34;githubhttpsgithubcomvatsalmpatel&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;linkedinhttpswwwlinkedincominvatsal-patel-84220745&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/vatsal-patel-84220745/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
@@ -57,10 +57,10 @@ A short intro I am currently a full-time student at Northeastern University, pur
     
     <item>
       <title>Projects</title>
-      <link>https://vatsalmpatel.github.io/vatsalportfolio/projects/</link>
+      <link>https://vatsalmpatel.github.io/portfolio/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vatsalmpatel.github.io/vatsalportfolio/projects/</guid>
+      <guid>https://vatsalmpatel.github.io/portfolio/projects/</guid>
       <description>Automatic Number Plate Detection 🚗 In this project I created an object detection model to detect number plate on vehicles. This project uses pre-trained ssd mode from the TensorFlow Model Zoo, and then I train my own model from the annotated training images. This model will output images with bounding box around number plates on vehicle images.
 Automatic Number Plate Detection on GitHub
 Comment Toxicity 🧪 Detection In todays day and age, there is a lot of toxicity on a lot (most) of social media platforms, and we need a way to flag those comments, blogs, text, news, e.</description>
