@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Vatsal&#39;s Terminal</title>
-    <link>https://vatsalmpatel.github.io/posts/</link>
+    <link>https://vatsalmpatel.github.io/vatsalportfolio/posts/</link>
     <description>Recent content in Posts on Vatsal&#39;s Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Vatsal Patel</copyright>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vatsalmpatel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vatsalmpatel.github.io/vatsalportfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Friend</title>
-      <link>https://vatsalmpatel.github.io/posts/greet/</link>
+      <link>https://vatsalmpatel.github.io/vatsalportfolio/posts/greet/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vatsalmpatel.github.io/posts/greet/</guid>
+      <guid>https://vatsalmpatel.github.io/vatsalportfolio/posts/greet/</guid>
       <description>As you have come to my website, this is a chance for you read more about me as well as take a look at various Machine Learning and Deep Learning Projects that I have worked by navigating the links above and feel free to contact me and we can have a chat 🗣.
 A short intro I am currently a full-time student at Northeastern University, pursuing my Masters in Artificial Intelligence, inclined towards Machine Learning and Computer Vision.</description>
       <content>&lt;p&gt;As you have come to my website, this is a chance for you read more about me as well as take a look at various Machine Learning and Deep Learning Projects that I have worked by navigating the links above and feel free to contact me and we can have a chat 🗣.&lt;/p&gt;
