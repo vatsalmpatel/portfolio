@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vatsal&#39;s Terminal</title>
+    <link>https://vatsalmpatel.github.io/</link>
+    <description>Recent content on Vatsal&#39;s Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Vatsal Patel</copyright>
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vatsalmpatel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://vatsalmpatel.github.io/about/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vatsalmpatel.github.io/about/</guid>
+      <description>Hi there I am Vatsal Patel, currently pursuing my Masters of Science in Artificial Intelligence from Northeastern University.
+From June 2022, I am doing a co-op at Retail Business Services (a company of Ahold Delhaize USA) as a Machine Learning Operations (MLOps) Engineer. At Retail Business Services, I am responsible for building Recommender Systems using Machine Learning and Deep Learning to be able to recommend products to millions of customers who shop at brands such as Stop &amp;amp; Shop, Giant Food, Food Lion and many other brands owned by Ahold Delhaize on the east coast.</description>
+      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
+&lt;p&gt;I am Vatsal Patel, currently pursuing my Masters of Science in Artificial Intelligence from Northeastern University.&lt;/p&gt;
+&lt;p&gt;From June 2022, I am doing a co-op at Retail Business Services (a company of Ahold Delhaize USA) as a Machine Learning Operations (MLOps) Engineer. At Retail Business Services, I am responsible for building Recommender Systems using Machine Learning and Deep Learning to be able to recommend products to millions of customers who shop at brands such as Stop &amp;amp; Shop, Giant Food, Food Lion and many other brands owned by Ahold Delhaize on the east coast.&lt;/p&gt;
+&lt;p&gt;As a Machine Learning and MLOps Engineer, I like to work on projects that include Deep Learning, Computer Vision, NLP, Recommendation Engines, Data Engineering. I have experience in building end-to-end machine learning systems using a host of ML Models, containerizing them using Docker and deploying it on a Kubernetes Cluster using platforms such as Azure and Seldon. I also have a soft spot for automation building automation pipelines using Azure DevOps pipelines. As for cloud stack, I have worked with both Microsoft Azure and Amazon AWS. I have a soft spot for Databricks, and how it has simplified life for programmers.&lt;/p&gt;
+&lt;p&gt;In 2021, I published a research paper named &lt;strong&gt;&lt;a href=&#34;https://www.researchgate.net/publication/353546682_Linear_Decision_Tree_Regressor_Decision_Tree_Regressor_Combined_with_Linear_Regressor&#34;&gt;Linear Decison Tree Regressor&lt;/a&gt;&lt;/strong&gt; where we developed a new machine learning algorithm for regression outperforming other regressors and overcame limitations of standard decision trees.&lt;/p&gt;
+&lt;p&gt;With my passion for ML algorithms, Computer Vision, Deep Learning and NLP I would love to be a part of the team that makes real advancements in AI and applies it practically that could affect the lives of millions around the world.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I have a burning desire to keep on learning new stuff and I have no desire to stop, not right now, NEVER.&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;P.S. I love to swim and play tennis and I am also a state level Table Tennis Champion 😉 back in India.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://vatsalmpatel.github.io/posts/greet/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vatsalmpatel.github.io/posts/greet/</guid>
+      <description>As you have come to my website, this is a chance for you read more about me as well as take a look at various Machine Learning and Deep Learning Projects that I have worked by navigating the links above and feel free to contact me and we can have a chat 🗣.
+A short intro I am currently a full-time student at Northeastern University, pursuing my Masters in Artificial Intelligence, inclined towards Machine Learning and Computer Vision.</description>
+      <content>&lt;p&gt;As you have come to my website, this is a chance for you read more about me as well as take a look at various Machine Learning and Deep Learning Projects that I have worked by navigating the links above and feel free to contact me and we can have a chat 🗣.&lt;/p&gt;
+&lt;h3 id=&#34;a-short-intro&#34;&gt;A short intro&lt;/h3&gt;
+&lt;p&gt;I am currently a full-time student at Northeastern University, pursuing my Masters in Artificial Intelligence, inclined towards Machine Learning and Computer Vision. I love to work on deep image models, constantly trying out new models followed by their training and testing on images to gain useful insights on the data and work on it to make it better. I recently started to learn more about self-driving cars and the technology behind them and the state-of-the-art models used to govern self-driving cars. I also love learning about Machine Learning algorithms and gathering insights on how they were used to solve problems that changed the landscape of AI. Recent applications of AI in self-driving technology and seeing the ability of those models to predict/output useful constructs from the features they learn excites me and it is what motivates me to keep exploring more and learn about AI.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Important Links and Contact Information</title>
+      <link>https://vatsalmpatel.github.io/contact/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vatsalmpatel.github.io/contact/</guid>
+      <description>GitHub LinkedIn E-Mail </description>
+      <content>&lt;h3 id=&#34;githubhttpsgithubcomvatsalmpatel&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;linkedinhttpswwwlinkedincominvatsal-patel-84220745&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/vatsal-patel-84220745/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;e-mailmailtopatelvatsal1northeasternedu&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;mailto:patel.vatsal1@northeastern.edu&#34;&gt;E-Mail&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://vatsalmpatel.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vatsalmpatel.github.io/projects/</guid>
+      <description>Automatic Number Plate Detection 🚗 In this project I created an object detection model to detect number plate on vehicles. This project uses pre-trained ssd mode from the TensorFlow Model Zoo, and then I train my own model from the annotated training images. This model will output images with bounding box around number plates on vehicle images.
+Automatic Number Plate Detection on GitHub
+Comment Toxicity 🧪 Detection In todays day and age, there is a lot of toxicity on a lot (most) of social media platforms, and we need a way to flag those comments, blogs, text, news, e.</description>
+      <content>&lt;h2 id=&#34;automatic-number-plate-detection-&#34;&gt;Automatic Number Plate Detection 🚗&lt;/h2&gt;
+&lt;p&gt;In this project I created an object detection model to detect number plate on vehicles. This project uses pre-trained ssd mode from the TensorFlow Model Zoo, and then I train my own model from the annotated training images. This model will output images with bounding box around number plates on vehicle images.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Automatic-Number-Plate-Detection-with-TensorFlow-Object-Detection&#34;&gt;Automatic Number Plate Detection on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;comment-toxicity--detection&#34;&gt;Comment Toxicity 🧪 Detection&lt;/h2&gt;
+&lt;p&gt;In todays day and age, there is a lot of toxicity on a lot (most) of social media platforms, and we need a way to flag those comments, blogs, text, news, e.t.c.. In order to do that, we can ask for a helping hand from a Machine Learning Model, that can classify comments, if they are toxic or not, and if they are what is the severity of the toxicity, i.e. threat, vulgar 🗣 and much more. We need a way to filter out negative comments and make a safe environment for everybody to enjoy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Comment-Toxicity-Detection-using-Deep-Learning&#34;&gt;Comment Toxicity Detection on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;signature-detection-on-company-documents-&#34;&gt;Signature Detection on Company Documents 📄&lt;/h2&gt;
+&lt;p&gt;Now a days it is very common for law firms to have a digital record for every piece of paper they receive and it is essential for them to have signatures on each piece of paper they receive to keep track of who received what document because it could be something confidential related to a case that the firm might be working on.&lt;/p&gt;
+&lt;p&gt;So, instead of a human looking through each digital document, why not let the computer do the hard work in looking through each document and detect signatures in those images.&lt;/p&gt;
+&lt;p&gt;Created an entire end-to-end system by deploying the project on Azure and automating deployment on change with GitHub Actions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/rbs-ml-e2e-challenge&#34;&gt;GitHub: Signature Detection&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;text-generation-using-transformers-&#34;&gt;Text Generation using Transformers 🆎&lt;/h2&gt;
+&lt;p&gt;In this example are going to look at Text Generation using the GPT2 model and Hugging Face 🤗. Using this model, we can generate paragraphs of text by just using a starting sentence.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Text-Generation-with-Transformers-and-GPT2&#34;&gt;Text Generation using Transformers on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;sign-language-detection-&#34;&gt;Sign Language Detection 🤘&lt;/h2&gt;
+&lt;p&gt;This is a Sign Language Detection Project 📽. What it does is detect hand-signs in realtime using OpenCV and TensorFlow LSTM Model. The current model is trained on detect &amp;ldquo;I Love You ♥&amp;rdquo;, &amp;ldquo;Hello 👋&amp;rdquo;, &amp;ldquo;Thank You🎇&amp;rdquo;, &amp;ldquo;Volume Up 🔊&amp;rdquo; and &amp;ldquo;Volume Down 🔈&amp;rdquo; hand signs.&lt;/p&gt;
+&lt;p&gt;Though, this can be modified to detect any handsigns and even body poses&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Sign-Language-Detection-With-Action-Recognition&#34;&gt;Checkout the code for this project on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;churn-prediction-using-machine-learning&#34;&gt;Churn Prediction using Machine Learning&lt;/h2&gt;
+&lt;p&gt;Churn is a metric of customer satisfaction. Low churn rate means that the customers are happy; and a higer churn rate means that the customers are no longer satisfied with the product/ business model and are leaving the company. This means churn rate can be very important. A small 🔽 in the churn rate can mean potentially 🔼 profits for the company.Churn is a good indicator of growth potential and machine learning can simplify the task and help you calculate customer churn rate.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Customer-Churn-Prediction&#34;&gt;Code for Customer Churn Prediction&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;user-sentiment-analysis-using-transformers&#34;&gt;User Sentiment Analysis using Transformers&lt;/h2&gt;
+&lt;p&gt;In this example, we are gonna look at the BERT Transformer model from Hugging Face that will be used fro Sentiment Analysis.&lt;/p&gt;
+&lt;p&gt;The BERT Model is trained on product reviews from six languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;li&gt;Dutch&lt;/li&gt;
+&lt;li&gt;German&lt;/li&gt;
+&lt;li&gt;French&lt;/li&gt;
+&lt;li&gt;Spanish&lt;/li&gt;
+&lt;li&gt;Italian&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We can leverage this trained model and use it very easily to get sentiments from reviews, I mean any reviews 🍾 from any of those 6 languages 💬.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Sentiment-Analysis-using-Transformers&#34;&gt;User Sentiment Analysis on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
