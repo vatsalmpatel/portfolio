@@ -78,6 +78,10 @@ Comment Toxicity 🧪 Detection In todays day and age, there is a lot of toxicit
 &lt;p&gt;Created an entire end-to-end system by deploying the project on Azure and automating deployment on change with GitHub Actions.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/rbs-ml-e2e-challenge&#34;&gt;GitHub: Signature Detection&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;face-detection-with-tensorflow-&#34;&gt;Face Detection with TensorFlow 👽&lt;/h2&gt;
+&lt;p&gt;In this project, I worked upon creating a face detection appplication using TensorFlow. This application captures training images using your own webcam, saves them to a folder. Then you annotate those images using labelme library and use image augmentation using albumentations to augment those images and create more images for training. After this, I created a model using the Keras Functional API to create a model using VGG16 model architecture. Finally, I used this pre-trained model to detect my face in real-time.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Face-Detection-with-TensorFlow&#34;&gt;Face Detection Code on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;text-generation-using-transformers-&#34;&gt;Text Generation using Transformers 🆎&lt;/h2&gt;
 &lt;p&gt;In this example are going to look at Text Generation using the GPT2 model and Hugging Face 🤗. Using this model, we can generate paragraphs of text by just using a starting sentence.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Text-Generation-with-Transformers-and-GPT2&#34;&gt;Text Generation using Transformers on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
