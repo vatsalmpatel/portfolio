@@ -72,6 +72,11 @@ Comment Toxicity 🧪 Detection In todays day and age, there is a lot of toxicit
 &lt;p&gt;In todays day and age, there is a lot of toxicity on a lot (most) of social media platforms, and we need a way to flag those comments, blogs, text, news, e.t.c.. In order to do that, we can ask for a helping hand from a Machine Learning Model, that can classify comments, if they are toxic or not, and if they are what is the severity of the toxicity, i.e. threat, vulgar 🗣 and much more. We need a way to filter out negative comments and make a safe environment for everybody to enjoy.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Comment-Toxicity-Detection-using-Deep-Learning&#34;&gt;Comment Toxicity Detection on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;iris--detector-with-tensorflow-and-opencv&#34;&gt;Iris 👁 Detector with TensorFlow and OpenCV&lt;/h2&gt;
+&lt;p&gt;In this project I created a TensorFlow model which can track eyes and project dots on my eyes 👀 as I move my to and away from the screen.&lt;/p&gt;
+&lt;p&gt;The model uses a pretrained ResNet model and I add more layers on top to train the model to track my eyes. I use images annotated with the point locations of my eye on a image. The annotation of images is done using LabelMe library in python and then the data is augmented using albumentations library.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Iris-Detection-with-TensorFlow&#34;&gt;Iris Detector on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;signature-detection-on-company-documents-&#34;&gt;Signature Detection on Company Documents 📄&lt;/h2&gt;
 &lt;p&gt;Now a days it is very common for law firms to have a digital record for every piece of paper they receive and it is essential for them to have signatures on each piece of paper they receive to keep track of who received what document because it could be something confidential related to a case that the firm might be working on.&lt;/p&gt;
 &lt;p&gt;So, instead of a human looking through each digital document, why not let the computer do the hard work in looking through each document and detect signatures in those images.&lt;/p&gt;
