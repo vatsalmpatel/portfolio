@@ -126,5 +126,29 @@ Comment Toxicity 🧪 Detection In todays day and age, there is a lot of toxicit
 </content>
     </item>
     
+    <item>
+      <title>Research</title>
+      <link>https://vatsalmpatel.github.io/portfolio/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vatsalmpatel.github.io/portfolio/research/</guid>
+      <description>Linear Desicion Tree Regressor As Decision Tree Regressor fails to deal with linear relationships, Linear Decision Tree Regressor is build to overcome this limitation by combining the linear regressor with the decision tree regressor. It can do so by using a decision tree structure and a modified node split method, which employs linear regression to better splits the nodes to improve the decision tree performance. The paper discusses the working of the proposed model, how it overcomes the limitations of decision tree regressor and linear regressor.</description>
+      <content>&lt;h2 id=&#34;linear-desicion-tree-regressor&#34;&gt;Linear Desicion Tree Regressor&lt;/h2&gt;
+&lt;p&gt;As Decision Tree Regressor fails to deal with linear 
+relationships, Linear Decision Tree Regressor is build to
+overcome this limitation by combining the linear regressor with 
+the decision tree regressor. It can do so by using a decision tree 
+structure and a modified node split method, which employs linear 
+regression to better splits the nodes to improve the decision tree 
+performance. The paper discusses the working of the proposed 
+model, how it overcomes the limitations of decision tree regressor 
+and linear regressor. Finally, the model is applied to various 
+datasets, and the performance is compared to that of other
+regression models.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;user=7gSQN-8AAAAJ&amp;amp;citation_for_view=7gSQN-8AAAAJ:u5HHmVD_uO8C&#34;&gt;Google Scholar Link&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
