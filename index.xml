@@ -63,10 +63,18 @@ A short intro I am currently a full-time student at Northeastern University, pur
       <guid>https://vatsalmpatel.github.io/portfolio/projects/</guid>
       <description>Automatic Number Plate Detection 🚗 In this project I created an object detection model to detect number plate on vehicles. This project uses pre-trained ssd mode from the TensorFlow Model Zoo, and then I train my own model from the annotated training images. This model will output images with bounding box around number plates on vehicle images.
 Automatic Number Plate Detection on GitHub
-Comment Toxicity 🧪 Detection In todays day and age, there is a lot of toxicity on a lot (most) of social media platforms, and we need a way to flag those comments, blogs, text, news, e.</description>
+Road Segmentation using FCN 🏎 In this small project, I created a road segmentation model using FCN for self-driving cars.</description>
       <content>&lt;h2 id=&#34;automatic-number-plate-detection-&#34;&gt;Automatic Number Plate Detection 🚗&lt;/h2&gt;
 &lt;p&gt;In this project I created an object detection model to detect number plate on vehicles. This project uses pre-trained ssd mode from the TensorFlow Model Zoo, and then I train my own model from the annotated training images. This model will output images with bounding box around number plates on vehicle images.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Automatic-Number-Plate-Detection-with-TensorFlow-Object-Detection&#34;&gt;Automatic Number Plate Detection on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;road-segmentation-using-fcn-&#34;&gt;Road Segmentation using FCN 🏎&lt;/h2&gt;
+&lt;p&gt;In this small project, I created a road segmentation model using FCN for self-driving cars. This uses the VGG16 model as the backend, which is pretrained on the ImageNet dataset with the last pooling layers modified to implement road segmentation tp create a more granular FCN8 architecture. The model was built using TensorFlow with GPU acceleration on Kaggle Notebooks. The model contains around 14 Million parameters, trained for 200 epochs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Road-Segmentation-using-Fully-Convolutional-Networks&#34;&gt;Code and Samples are on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;object-tracking-with-deepsort-&#34;&gt;Object Tracking with DeepSORT 🚗&lt;/h2&gt;
+&lt;p&gt;In this notebook, I combined the YOLOv3 algorithm with the DeepSORT algorithm to create an object tracking module to track cars going on the road. This project uses YOLO to identify objects in each frame of the video and then uses the DeepSORT to keep track of each object in the video by giving it an object ID and then keeping track of the same object through the video using those object ID and temporal references.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/vatsalmpatel/Object-Tracking-with-DeepSORT&#34;&gt;Object tracking code and sample video&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;comment-toxicity--detection&#34;&gt;Comment Toxicity 🧪 Detection&lt;/h2&gt;
 &lt;p&gt;In todays day and age, there is a lot of toxicity on a lot (most) of social media platforms, and we need a way to flag those comments, blogs, text, news, e.t.c.. In order to do that, we can ask for a helping hand from a Machine Learning Model, that can classify comments, if they are toxic or not, and if they are what is the severity of the toxicity, i.e. threat, vulgar 🗣 and much more. We need a way to filter out negative comments and make a safe environment for everybody to enjoy.&lt;/p&gt;
